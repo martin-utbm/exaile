@@ -1,6 +1,7 @@
 Exaile
 ======
 
+[![CodeFactor](https://www.codefactor.io/repository/github/martin-utbm/exaile/badge)](https://www.codefactor.io/repository/github/martin-utbm/exaile)
 [![Build Status](https://travis-ci.org/exaile/exaile.svg?branch=master)](https://travis-ci.org/exaile/exaile)
 [![Translate with Weblate](https://hosted.weblate.org/widgets/exaile/-/svg-badge.svg)](https://hosted.weblate.org/engage/exaile/)
 
