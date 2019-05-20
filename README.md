@@ -17,3 +17,5 @@ internet radio such as icecast and Soma.FM, ReplayGain, output via a secondary
 output device (great for DJs!), and much more.
 
 For more information see https://www.exaile.org/
+
+Can I have activity now?
